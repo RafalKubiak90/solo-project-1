@@ -42,5 +42,7 @@
     "rimraf": "^2.6.3",
     "run-all": "^1.0.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
